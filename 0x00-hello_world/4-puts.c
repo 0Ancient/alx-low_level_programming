@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
-*This prigram prints Programming is like building a multilingual puzzle
+*main- print the string in the put function
 *
+* Description: use main function
+*This prigram prints Programming is like building a multilingual puzzle
 *Return: 0
 */
 {
