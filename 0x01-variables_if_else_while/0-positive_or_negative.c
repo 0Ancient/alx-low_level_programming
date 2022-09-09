@@ -9,7 +9,7 @@
 * program prints if number is zero, negative or positive
 * Return: 0
 */
-int main()
+int main(void)
 {
 int n;
 
