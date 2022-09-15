@@ -33,6 +33,12 @@ int main(void)
 				printf("Buzz");
 			}
 		}
-		return (0);
+		else
+		{
+			printf("%d ", num);
+		}
 	}
+	printf("\n");
+	
+	return("\n");
 }
