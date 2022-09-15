@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints either number
+ * main - program that prints either number
  * or fizz or buzz or fizzbuzz
  *
  *
@@ -38,7 +38,7 @@ int main(void)
 			printf("%d ", num);
 		}
 	}
-	printf("\n");
+	printf('\n');
 	
 	return (0);
 }
