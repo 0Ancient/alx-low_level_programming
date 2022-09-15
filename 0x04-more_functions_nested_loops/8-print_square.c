@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_squire - prints squire
+ * print_square - prints square
  * @size:character
  * Return: returns nothing
  */
