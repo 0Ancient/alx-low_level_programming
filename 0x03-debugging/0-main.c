@@ -1,8 +1,7 @@
 #include "main.h"
 
-
 /**
- * main -tests function to print interger positive or negative
+ * main -tests function to print if intergers positive or negative
  * Return: 0
  */
 
