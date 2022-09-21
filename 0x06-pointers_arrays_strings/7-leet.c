@@ -2,7 +2,7 @@
 
 /**
  * leet - leet encoder
- * @str: string to encode
+ * @str: string to be encoded
  *
  * Return: address of the encoded string
  */
@@ -20,7 +20,7 @@ char *leet(char *str)
 }
 
 /**
- * transform - helper function to map letter with its leeting ecoding
+ * transform - helper function to map a letter with it's leeting ecoding
  * @x: char to be encoded
  *
  * Return: the encoded char
