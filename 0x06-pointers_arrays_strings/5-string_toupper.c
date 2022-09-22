@@ -1,4 +1,4 @@
-#indlude "main.h"
+#include "main.h"
 
 /**
  * string_toupper - changes all lowercase to uppercase
