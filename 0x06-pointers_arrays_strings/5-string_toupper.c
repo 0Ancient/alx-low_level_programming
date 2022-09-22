@@ -2,7 +2,7 @@
 
 /**
  * string_toupper - changes all lowercase to uppercase
- * @str: string changed
+ * @str: string to be changed
  *
  * Return: address to string
  */
