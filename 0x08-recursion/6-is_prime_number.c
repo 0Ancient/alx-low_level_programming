@@ -19,6 +19,7 @@ int is_prime_number(int n)
 /**
  * is_prime - returns 1 if number is prime
  * @n: number chacked
+ * @start: where to start checking
  *
  * Return: returns 1 if number is prime, otherwise zero
  */
