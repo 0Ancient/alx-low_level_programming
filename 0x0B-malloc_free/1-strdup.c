@@ -34,5 +34,5 @@ char *_strdup(char *str);
 	}
 
 	ar[j + 1] = 0;
-	return (0);
+	return (ar);
 }
