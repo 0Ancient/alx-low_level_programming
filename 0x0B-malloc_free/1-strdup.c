@@ -10,7 +10,7 @@
  * Return: NULL if str = NULL
  */
 
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *ar;
 	unsigned int i = 0;
