@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /**
- * _calloc - allocates memory for an array of nmemb elements 
- * @nmemb:elements of size bytes 
- * @size: of array element
- *
- * Return: pointer to the allocated memory
- */
+* _calloc - allocates memory for an array of nmemb elements
+* @nmemb:elements of size bytes
+* @size: of array element
+*
+* Return: pointer to the allocated memory
+*/
 
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
